@@ -1,0 +1,8 @@
+{
+  "name": "assert",
+  "description": "Meteor smart package for assert node.js module",
+  "homepage": "https://github.com/peerlibrary/meteor-assert",
+  "author": "The PeerLibrary Project",
+  "version": "0.1",
+  "git": "https://github.com/peerlibrary/meteor-assert.git"
+}

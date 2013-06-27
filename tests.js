@@ -1,7 +1,7 @@
 Tinytest.add('meteor-assert', function (test) {
   var isDefined = false;
   try {
-    assert.equal('a', 'a');
+    assert;
     isDefined = true;
   }
   catch (e) {

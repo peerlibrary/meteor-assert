@@ -1,0 +1,1 @@
+assert = Npm.require('assert');

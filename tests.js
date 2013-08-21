@@ -10,6 +10,6 @@ Tinytest.add('meteor-assert', function (test) {
   test.isTrue(Package.assert.assert, "Package.assert.assert is not defined");
 
   test.throws(function () {
-    assert.equal('a', 'b');
-  });
+    assert.equal('a', 'b', 'message');
+  }, /message/);
 });

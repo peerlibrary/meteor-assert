@@ -3,12 +3,15 @@ Package.describe({
 });
 
 Package.on_use(function (api) {
+  api.export('assert');
+
   api.add_files([
     'server.js'
   ], 'server');
 
   api.add_files([
-    'client/assert.js'
+    'client/assert.js',
+    'export-assert.js'
   ], 'client');
 });
 

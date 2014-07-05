@@ -3,6 +3,6 @@
   "description": "Make code assertions to assure your code works as expected",
   "homepage": "https://github.com/peerlibrary/meteor-assert",
   "author": "The PeerLibrary Project",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "git": "https://github.com/peerlibrary/meteor-assert.git"
 }

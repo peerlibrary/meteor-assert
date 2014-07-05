@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Meteor smart package for assert node.js module"
+  summary: "Make code assertions to assure your code works as expected"
 });
 
 Package.on_use(function (api) {

@@ -1,4 +1,4 @@
-Tinytest.add('meteor-assert', function (test) {
+Tinytest.add('assert', function (test) {
   var isDefined = false;
   try {
     assert;

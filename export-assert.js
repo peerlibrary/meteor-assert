@@ -1,1 +1,0 @@
-assert = this.assert;

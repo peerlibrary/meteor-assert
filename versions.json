@@ -5,6 +5,10 @@
       "1.0.3"
     ],
     [
+      "peerlibrary:assert",
+      "0.2.5"
+    ],
+    [
       "underscore",
       "1.0.0"
     ]

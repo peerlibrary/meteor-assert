@@ -12,5 +12,5 @@ Installation
 ------------
 
 ```
-mrt add assert
+meteor add peerlibrary:assert
 ```
